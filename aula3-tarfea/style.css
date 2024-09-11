@@ -1,0 +1,26 @@
+.fonte
+{
+  font-family: "Playwrite CU", cursive;
+  font-optical-sizing: auto;
+  font-weight: normal ;
+  font-style: normal;
+}
+
+nav
+{
+    background-color: black;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul
+{
+    margin: 0;
+    padding: 0;
+}
+
+li
+{
+    display: inline;
+    margin-right: 20px;
+}
