@@ -13,19 +13,19 @@ nav
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-ul
+.ul
 {
     margin: 0;
     padding: 0;
 }
 
-li
+.li
 {
     display: inline;
     margin-right: 20px;
 }
 
-a
+.a
 {
     text-decoration: none;
     color: white;
@@ -35,4 +35,21 @@ a
 a:hover
 {
     color: red;
+}
+
+img
+{
+    height: 200px;
+    width: 200px;
+    border-radius: 30%;
+    border: 2px solid black;
+}
+
+li
+{
+    color: blue;
+}
+
+.roxo{
+    color: blueviolet;
 }
