@@ -1,0 +1,114 @@
+.lato-regular {
+    font-family: "Lato", sans-serif;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: justify;
+}
+
+.divbotao {
+    margin-top: 33px;
+    margin-left: 129px;
+    margin-right: 136px;
+    margin-bottom: 80px;
+
+}
+
+.botao {
+    font-family: "Lato", sans-serif;
+    font-size: 22px;
+    font-weight: 500px;
+    line-height: 18px;
+    text-align: center;
+    color: white;
+    background-color: #333333;
+    width: 222px;
+    height: 66px;
+    border-radius: 35px;
+
+}
+
+.lato-grande {
+    font-family: "Lato", sans-serif;
+    font-size: 64px;
+    font-weight: 600px;
+    line-height: 76.8px;
+    letter-spacing: 0.01em;
+    text-align: center;
+    color: #333333;
+
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 109px;
+}
+
+.tamtex {
+    width: 495px;
+    height: 154px;
+    margin-top: 108px;
+    margin-bottom: 24px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.tamtex2 {
+    width: 487px;
+    height: 128px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.img0 {
+    width: 148px;
+    height: 148px;
+}
+
+.img1 {
+    margin-right: 24px;
+}
+
+.img2 {
+    margin-right: 28px;
+}
+
+.tamimg1 {
+    width: 496px;
+    height: 149px;
+    top: 593px;
+    left: 472px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+
+.imgtam {
+    width: 302px;
+    height: 348px;
+}
+
+.img00 {
+    display: flex;
+    flex-direction: column;
+}
+
+.img01{
+    margin-top: 171px;
+    margin-bottom: 48px;
+    margin-right: 65px;
+}
+
+.img02{
+    margin-top: 171px;
+    margin-bottom: 48px;
+    margin-left: 65px;
+}
+
+.img002{
+    margin-left: 65px;
+}
