@@ -47,12 +47,14 @@ main {
 }
 
 .tamtex {
-    width: 495px;
+    width: 380px;
     height: 154px;
     margin-top: 108px;
     margin-bottom: 24px;
     gap: 0px;
     opacity: 0px;
+    margin-left: 55px;
+
 }
 
 .tamtex2 {
