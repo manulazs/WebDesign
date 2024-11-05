@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#titulo {
+    font-size: 2em;
+}
+
+#paragrafo {
+    margin: 20px 0;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+}
+
+.button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
+
+.botoes,
+.botoes-toggle {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+/* Classe para aplicar cor vermelha */
+.vermelho {
+    background-color: red;
+    color: white;
+}
