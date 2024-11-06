@@ -1,0 +1,22 @@
+.color
+{
+    color: white;
+    
+}
+
+.box
+{
+    display: flex;
+    width: 280px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid lightgray;
+    border-radius: 2%;
+
+}
+
+.box2
+{
+    display: flex;
+    justify-content: center;
+}
