@@ -4,7 +4,7 @@ let btnApagarTudo = document.getElementById('btnApagarTudo');
 
 function criarCard(titulo) 
 {
-    let randomImageId = Math.floor(Math.random() * 1000);
+    let randomImageId = Math.floor(Math.random() *1000);
 
     let card = document.createElement('div');
     card.classList.add('col-md-4', 'col-sm-6', 'col-12');
